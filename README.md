@@ -73,26 +73,34 @@ Getting Started
 Clone the Repository
 
 git clone https://github.com/Mtumish1/DSA-Learning-Path.git
+
 cd DSA_Learning_Path
+
+
 
 Navigate to the Desired Topic
 
 cd 2_Arrays_and_Strings
 
 
+
 Read the README
 Each folder contains a README.md with an overview of the concepts and common problems to solve.
+
 
 Solve Problems
 Implement solutions to the problems in the problems folder and refer to example solutions for guidance.
 
+
 Contributing
 We welcome contributions! If you have any improvements or additional problems to include, please fork the repository and submit a pull request.
 
+
 Resources
-LeetCode
-GeeksforGeeks
-HackerRank
+
+        LeetCode
+        GeeksforGeeks
+        HackerRank
 
 
 License
